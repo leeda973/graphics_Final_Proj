@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\graphics\\ComgFinal7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|C:\\graphics\\ComgFinal7\\vector3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|solutionrelative:vector3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|C:\\graphics\\ComgFinal7\\terrain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|solutionrelative:terrain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|C:\\graphics\\ComgFinal7\\terrain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|solutionrelative:terrain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|C:\\graphics\\ComgFinal7\\skybox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|solutionrelative:skybox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|C:\\graphics\\ComgFinal7\\skybox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|solutionrelative:skybox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|C:\\graphics\\ComgFinal7\\point3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|solutionrelative:point3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|C:\\graphics\\ComgFinal7\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|C:\\graphics\\ComgFinal7\\loadbmp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|solutionrelative:loadbmp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|C:\\graphics\\ComgFinal7\\loadbmp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|solutionrelative:loadbmp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|C:\\graphics\\ComgFinal7\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|solutionrelative:camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|C:\\graphics\\ComgFinal7\\camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CCB5553-9B0F-48C6-A3AA-9778FD340DAE}|ComgFinal.vcxproj|solutionrelative:camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\graphics\\test2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\graphics\\ComgFinal7\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\graphics\\ComgFinal7\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T03:46:57.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "point3.h",
+              "DocumentMoniker": "C:\\graphics\\ComgFinal7\\point3.h",
+              "RelativeDocumentMoniker": "point3.h",
+              "ToolTip": "C:\\graphics\\ComgFinal7\\point3.h",
+              "RelativeToolTip": "point3.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T18:56:25.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "skybox.cpp",
+              "DocumentMoniker": "C:\\graphics\\ComgFinal7\\skybox.cpp",
+              "RelativeDocumentMoniker": "skybox.cpp",
+              "ToolTip": "C:\\graphics\\ComgFinal7\\skybox.cpp",
+              "RelativeToolTip": "skybox.cpp",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T18:56:37.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "skybox.h",
+              "DocumentMoniker": "C:\\graphics\\ComgFinal7\\skybox.h",
+              "RelativeDocumentMoniker": "skybox.h",
+              "ToolTip": "C:\\graphics\\ComgFinal7\\skybox.h",
+              "RelativeToolTip": "skybox.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T18:56:46.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "terrain.cpp",
+              "DocumentMoniker": "C:\\graphics\\ComgFinal7\\terrain.cpp",
+              "RelativeDocumentMoniker": "terrain.cpp",
+              "ToolTip": "C:\\graphics\\ComgFinal7\\terrain.cpp",
+              "RelativeToolTip": "terrain.cpp",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAswNsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T18:56:53.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "terrain.h",
+              "DocumentMoniker": "C:\\graphics\\ComgFinal7\\terrain.h",
+              "RelativeDocumentMoniker": "terrain.h",
+              "ToolTip": "C:\\graphics\\ComgFinal7\\terrain.h",
+              "RelativeToolTip": "terrain.h",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T18:57:02.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vector3.h",
+              "DocumentMoniker": "C:\\graphics\\ComgFinal7\\vector3.h",
+              "RelativeDocumentMoniker": "vector3.h",
+              "ToolTip": "C:\\graphics\\ComgFinal7\\vector3.h",
+              "RelativeToolTip": "vector3.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswCgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T18:57:11.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "loadbmp.h",
+              "DocumentMoniker": "C:\\graphics\\ComgFinal7\\loadbmp.h",
+              "RelativeDocumentMoniker": "loadbmp.h",
+              "ToolTip": "C:\\graphics\\ComgFinal7\\loadbmp.h",
+              "RelativeToolTip": "loadbmp.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T18:56:09.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "loadbmp.cpp",
+              "DocumentMoniker": "C:\\graphics\\ComgFinal7\\loadbmp.cpp",
+              "RelativeDocumentMoniker": "loadbmp.cpp",
+              "ToolTip": "C:\\graphics\\ComgFinal7\\loadbmp.cpp",
+              "RelativeToolTip": "loadbmp.cpp",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAswFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T18:55:59.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "camera.h",
+              "DocumentMoniker": "C:\\graphics\\ComgFinal7\\camera.h",
+              "RelativeDocumentMoniker": "camera.h",
+              "ToolTip": "C:\\graphics\\ComgFinal7\\camera.h",
+              "RelativeToolTip": "camera.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T18:55:51.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "camera.cpp",
+              "DocumentMoniker": "C:\\graphics\\ComgFinal7\\camera.cpp",
+              "RelativeDocumentMoniker": "camera.cpp",
+              "ToolTip": "C:\\graphics\\ComgFinal7\\camera.cpp",
+              "RelativeToolTip": "camera.cpp",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAswI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T18:55:43.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\graphics\\test2\\main.cpp",
+              "RelativeDocumentMoniker": "..\\test2\\main.cpp",
+              "ToolTip": "C:\\graphics\\test2\\main.cpp",
+              "RelativeToolTip": "..\\test2\\main.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T18:42:18.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T03:55:04.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
