@@ -1,4 +1,0 @@
-C:\comg\ComgFinal\x64\Debug\freeglutd.dll
-C:\comg\ComgFinal\ComgFinal\x64\Debug\ComgFinal.vcxproj.Up2Date
-C:\comg\ComgFinal2\x64\Debug\freeglutd.dll
-C:\comg\ComgFinal2\ComgFinal\x64\Debug\ComgFinal.vcxproj.Up2Date
